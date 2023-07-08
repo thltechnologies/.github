@@ -1,7 +1,5 @@
 # THL Technologies
 
-# Nom de l'entreprise
-
 Nous sommes une entreprise technologique dynamique et innovante, spécialisée dans le développement de solutions numériques avancées. Notre équipe passionnée de professionnels chevronnés met son expertise technique et sa créativité au service de nos clients.
 
 ## À propos de nous
