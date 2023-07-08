@@ -16,7 +16,7 @@ Nous concevons et réalisons des applications web et mobiles de qualité, en uti
 
 Rejoignez-nous dans notre quête pour transformer les idées en réalité et façonner un avenir numérique passionnant. Si vous êtes à la recherche d'une entreprise technologique dynamique et axée sur l'innovation, nous serions ravis de collaborer avec vous !
 
-Pour en savoir plus sur nos projets et nos réalisations, visitez notre site web [lien vers votre site web] et contactez-nous à [adresse e-mail de contact].
+Pour en savoir plus sur nos projets et nos réalisations, visitez notre site web ![](https://thltechnologies.com) et contactez-nous à ![](contact@thltechnologies.com).
 
 
 ![](https://firebasestorage.googleapis.com/v0/b/thltech.appspot.com/o/Files%2FImages%2Fthl-lg.jpg?alt=media&token=46b7716c-3a7f-439e-99fc-5291d0355dcd)
